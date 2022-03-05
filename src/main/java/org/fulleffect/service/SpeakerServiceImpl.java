@@ -10,8 +10,6 @@ public class SpeakerServiceImpl implements SpeakerService {
 
     private final SpeakerRepository repository = new HibernateSpeakerRepositoryImpl();
 
-
-
     @Override
     public List<Speaker> findAll(){
         return  repository.findAll();

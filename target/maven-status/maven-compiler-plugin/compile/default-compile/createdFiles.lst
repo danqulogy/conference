@@ -1,0 +1,6 @@
+org\fulleffect\service\SpeakerServiceImpl.class
+org\fulleffect\repository\HibernateSpeakerRepositoryImpl.class
+org\fulleffect\repository\SpeakerRepository.class
+org\fulleffect\model\Speaker.class
+org\fulleffect\Application.class
+org\fulleffect\service\SpeakerService.class
